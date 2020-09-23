@@ -1,0 +1,11 @@
+https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application
+
+
+
+
+
+
+
+
+$env:FLASK_APP = "hello.py"
+flask run
